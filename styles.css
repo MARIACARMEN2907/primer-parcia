@@ -1,0 +1,15 @@
+:root {
+    --fontSize: 18px;
+  }
+  body {
+    font-family: "Roboto", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .background
+  {
+    height: 370px;
+    background-image: url('./examen/gato-exa.svg');
+    background-repeat: no-repeat;
+  }
